@@ -1,5 +1,5 @@
 # profile 
-[![Build Status](https://travis-ci.org/cmboling/profile.svg?branch=master)](https://travis-ci.org/cmboling/profile)
+# [![Build Status](https://travis-ci.org/cmboling/profile.svg?branch=master)](https://travis-ci.org/cmboling/profile)
 
 - To run this project follow these steps , 
   - clone the repo using `git clone`
