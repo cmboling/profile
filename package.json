@@ -10,7 +10,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "predeploy": "yarn run build",
